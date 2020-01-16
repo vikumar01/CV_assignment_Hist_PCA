@@ -22,3 +22,6 @@ MNIST test images (see example below).
 d. Evaluate the performance of SSD and DFFS (i.e. illustrate when it works, and when it does
 not work).
 Example of test images for computing SSD and DFFS heat maps:
+
+
+Jupiter file contains the code and related outputs
